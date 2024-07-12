@@ -11,6 +11,6 @@
 > - git config --global user.email "prudhvi@gmail.com"
 
 > Setting your Git username and email for a single repository
-> - git config user.name "Mona Lisa"
-> - git config user.email "prudhvi@gmail.com"
+> - git config user.name "Mahadri"
+> - git config user.email "mahadri@gmail.com"
 
