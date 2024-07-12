@@ -7,5 +7,6 @@
 #### Changing the name associated with your Git commits using git config will only affect future commits and will not change the name used for past commits.
 
 > *Setting your Git username for every repository on your computer*
+> > one
 
 
