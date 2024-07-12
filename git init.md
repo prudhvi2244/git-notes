@@ -8,7 +8,7 @@
 > 
 > ##### Transform the current directory into a Git repository. This adds a .git subdirectory to the current directory and makes it possible to start recording revisions of the project
 
-> ### git init <directory>
+> ### git init <<directory>>
 >
 > ##### Create an empty Git repository in the specified directory. Running this command will create a new subdirectory called ＜directory＞ containing nothing but the .git subdirectory
 
