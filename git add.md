@@ -7,4 +7,4 @@
 > 
 > ***git add first.txt second.txt third.txt***
 > 
-> ***git add '*'***
+> ***git add "*"***
