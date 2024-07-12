@@ -11,7 +11,6 @@
 > - git config --global user.name
 
 > Setting your Git username for a single repository
-> Change the current working directory to the local repository where you want to configure the name that is associated with your Git commits.
 > - git config user.name "Mona Lisa"
 > - git config user.name
 
